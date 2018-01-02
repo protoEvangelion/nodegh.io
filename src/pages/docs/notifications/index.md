@@ -2,8 +2,8 @@
 title: "Notifications"
 description: "Display The Latest Repo Activities & Watch For Repo Activity"
 layout: "guide"
-icon: "cloud"
-weight: 3
+icon: "bullhorn"
+weight: 4
 ---
 
 ###### {$page.description}

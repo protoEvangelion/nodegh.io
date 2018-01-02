@@ -2,13 +2,14 @@
 title: "User"
 description: "Login & Logout For Your Node GH User"
 layout: "guide"
-icon: "flash"
-weight: 6
+icon: "person-card"
+weight: 8
 ---
 
 ###### {$page.description}
 
 <article id="1">
+
 ```shell
 gh user
 ```

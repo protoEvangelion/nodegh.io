@@ -2,13 +2,14 @@
 title: "Repos"
 description: "Open, List, Create & Clone Repos"
 layout: "guide"
-icon: "flash"
-weight: 4
+icon: "cloud"
+weight: 5
 ---
 
 ###### {$page.description}
 
 <article id="1">
+
 ```shell
 gh repo
 ```

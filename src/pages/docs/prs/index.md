@@ -2,13 +2,23 @@
 title: "Pull Requests"
 description: "The Greatest Power Of Node GH Lies In Its Ability To Interface With Github's Pull Request Api, So This Is A Great Place To Start!"
 layout: "guide"
-icon: "hammer"
-weight: 1
+icon: "code-file"
+weight: 2
 ---
 
 ###### {$page.description}
 
 <article id="1">
+
+```shell
+gh pull-request
+```
+
+#### Alias:
+
+```shell
+gh pr
+```
 
 ## Submit
 Option                  | Usage        | Type

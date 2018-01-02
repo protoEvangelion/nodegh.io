@@ -3,12 +3,13 @@ title: "Alias"
 description: "Create Shortcut Aliases For Things Like Usernames & Repositories"
 layout: "guide"
 icon: "flash"
-weight: 1
+weight: 7
 ---
 
 ###### {$page.description}
 
 <article id="1">
+
 ```shell
 gh alias
 ```

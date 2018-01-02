@@ -2,8 +2,8 @@
 title: "Issues"
 description: "Create & Modify Github Issues"
 layout: "guide"
-icon: "code-file"
-weight: 2
+icon: "hammer"
+weight: 3
 ---
 
 ###### {$page.description}

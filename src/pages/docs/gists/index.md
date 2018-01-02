@@ -2,13 +2,14 @@
 title: "Gists"
 description: "Open, Create & Fork gists"
 layout: "guide"
-icon: "flash"
-weight: 5
+icon: "bookmark"
+weight: 6
 ---
 
 ###### {$page.description}
 
 <article id="1">
+
 ```shell
 gh gists
 ```
