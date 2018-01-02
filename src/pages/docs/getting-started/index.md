@@ -35,14 +35,6 @@ In order to sucessfully run this project you must have [NodeJS >= v0.12.0](http:
 
 <article id="3">
 
-## Demonstration
-
-[![Demo](http://nodegh.io/images/nodegh-demo.jpg)](https://asciinema.org/a/3391)
-</article>
-
-
-<article id="4">
-
 ## Global flags
 
 Option            | Usage        | Type
@@ -56,7 +48,7 @@ The insane flag is a more complete verbose flag, which leaks more privacy sensit
 </article>
 
 
-<article id="5">
+<article id="4">
 
 ## Getting Help
 
@@ -78,7 +70,7 @@ gh help <command>
 </article>
 
 
-<article id="6">
+<article id="5">
 
 ## Config
 
@@ -159,4 +151,12 @@ You can also set per-project configurations by adding a `.gh.json` file in your 
 ```
 
 If you need to use a custom git command, set the environment variable `GH_GIT_COMMAND`.
+</article>
+
+
+<article id="demo">
+
+## Demonstration
+
+[![Demo](http://nodegh.io/images/nodegh-demo.jpg)](https://asciinema.org/a/3391)
 </article>
